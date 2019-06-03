@@ -1,4 +1,4 @@
-% PUNTO 1
+% PUNTO 1 
 candidato(frank, 50, rojo).
 candidato(claire, 52, rojo).
 candidato(garrett, 64, azul).
