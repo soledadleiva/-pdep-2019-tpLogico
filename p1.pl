@@ -2,7 +2,7 @@
 candidato(frank, 50, rojo).
 candidato(claire, 52, rojo).
 candidato(garrett, 64, azul).
-candidato(peter, 26, _). 
+candidato(peter, 26, not(amarillo)). 
 candidato(jackie, 38, amarillo).
 candidato(linda, 30, azul).
 candidato(catherine, 59, rojo).
